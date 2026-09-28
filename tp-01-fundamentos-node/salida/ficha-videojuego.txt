@@ -1,0 +1,13 @@
+FICHA DE VIDEOJUEGO
+
+=================
+Estudiante: Isauro Sebastian Martinez
+Node.js: v24.19.0
+Plataforma: win32
+
+Título: Street Fighter II
+Estudio: Capcom
+Año: 1991
+Plataformas: PC, Sega, Play Station, Nintendo, Xbox
+¿Es Multijugador?: Si
+;
